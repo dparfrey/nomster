@@ -36,7 +36,7 @@ source 'https://rails-assets.org' do
   gem 'rails-assets-tether'
 end
 gem 'jquery-rails'
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 
 gem 'simple_form'
 gem "font-awesome-rails"
